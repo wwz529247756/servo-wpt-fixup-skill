@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# machine-specific workspace config must never be committed
+workspace.json

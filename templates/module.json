@@ -1,0 +1,10 @@
+{
+  "name": "<name>",
+  "scope": [
+    "<wpt/dir>"
+  ],
+  "specs": [
+    "<spec-shortname>"
+  ],
+  "category": "css | html | webapi | mixed"
+}

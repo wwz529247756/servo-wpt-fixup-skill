@@ -1,0 +1,9 @@
+{
+  "workspace": "<root>",
+  "servo": "servo",
+  "gecko": "gecko-dev",
+  "specs": "specs-dictionary",
+  "data": "wpt-fix",
+  "rustup_home": "<rustup>",
+  "cargo_home": "<cargo>"
+}
